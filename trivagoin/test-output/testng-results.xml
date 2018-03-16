@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2018-03-16T10:23:39Z" finished-at="2018-03-16T10:23:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2018-03-16T10:23:39Z" finished-at="2018-03-16T10:23:39Z">
+      <class name="trivagoin.test">
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:trivagoin.test@14acaea5]" name="test" duration-ms="13" started-at="2018-03-16T15:53:39Z" data-provider="BookingMap" finished-at="2018-03-16T15:53:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{rooms=1, city=Goa, children=1, hotel=Resort, sort=Rating & Popularity, checkinDateForward=3, adult=1, checkoutDateForward=5}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- trivagoin.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

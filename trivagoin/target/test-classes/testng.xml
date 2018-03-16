@@ -1,0 +1,10 @@
+<suite name="SuiteName" parallel="tests">
+	
+	<test name="Trivagoin Test" allow-return-values="true">
+		<classes>
+			<class name="trivagoin.TrivagoTests" />
+		</classes>
+	</test>
+	
+</suite>
+
