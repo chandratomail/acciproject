@@ -1,13 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[<br>Application trivago is started]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element SearchBox]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in SearchText]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element SearchOption]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element SearchButton]]>
+    </line>
+    <line>
+      <![CDATA[<br>Found elements for Prices]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element SearchBox]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in SearchValue]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element SearchButton]]>
+    </line>
+    <line>
+      <![CDATA[<br>Selected option Rating & Popularity]]>
+    </line>
+    <line>
+      <![CDATA[<br>Found elements for Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>*** Printing Resort Names started ***]]>
+    </line>
+    <line>
+      <![CDATA[<br>*** Printing Resort Names is done ***]]>
+    </line>
+    <line>
+      <![CDATA[<br>Scrolled to Goa Marriott Resort & Spa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Goa Marriott Resort & Spa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Next Button]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Checkin Date]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Checkout Date]]>
+    </line>
+    <line>
+      <![CDATA[<br>Selected option 1]]>
+    </line>
+    <line>
+      <![CDATA[<br>Selected option 1]]>
+    </line>
+    <line>
+      <![CDATA[<br>Selected option 1]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Update Button]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Book Button]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Complete Booking Button]]>
+    </line>
+    <line>
+      <![CDATA[<br>Found elements for Errors]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Customer name]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Customer phone number]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Card holder name]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Card number]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Security Code]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value in Email]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on element Complete Booking]]>
+    </line>
+    <line>
+      <![CDATA[<br>Found elements for Errors]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2018-03-16T10:23:39Z" finished-at="2018-03-16T10:23:39Z">
+  <suite name="SuiteName" duration-ms="178101" started-at="2018-03-18T15:56:32Z" finished-at="2018-03-18T15:59:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2018-03-16T10:23:39Z" finished-at="2018-03-16T10:23:39Z">
-      <class name="trivagoin.test">
-        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:trivagoin.test@14acaea5]" name="test" duration-ms="13" started-at="2018-03-16T15:53:39Z" data-provider="BookingMap" finished-at="2018-03-16T15:53:39Z">
+    <test name="Trivagoin Test" duration-ms="178101" started-at="2018-03-18T15:56:32Z" finished-at="2018-03-18T15:59:30Z">
+      <class name="trivagoin.TrivagoTests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="beforeClass" is-config="true" duration-ms="13565" started-at="2018-03-18T21:26:32Z" finished-at="2018-03-18T21:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testBookingUntilCancelHotelRoom(java.util.Map)[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="testBookingUntilCancelHotelRoom" duration-ms="160882" started-at="2018-03-18T21:26:45Z" data-provider="BookingMap" finished-at="2018-03-18T21:29:26Z">
           <params>
             <param index="0">
               <value>
@@ -16,9 +119,112 @@
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[<br>Application trivago is started]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element SearchBox]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in SearchText]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element SearchOption]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element SearchButton]]>
+            </line>
+            <line>
+              <![CDATA[<br>Found elements for Prices]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element SearchBox]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in SearchValue]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element SearchButton]]>
+            </line>
+            <line>
+              <![CDATA[<br>Selected option Rating & Popularity]]>
+            </line>
+            <line>
+              <![CDATA[<br>Found elements for Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>*** Printing Resort Names started ***]]>
+            </line>
+            <line>
+              <![CDATA[<br>*** Printing Resort Names is done ***]]>
+            </line>
+            <line>
+              <![CDATA[<br>Scrolled to Goa Marriott Resort & Spa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Goa Marriott Resort & Spa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Next Button]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Checkin Date]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Checkout Date]]>
+            </line>
+            <line>
+              <![CDATA[<br>Selected option 1]]>
+            </line>
+            <line>
+              <![CDATA[<br>Selected option 1]]>
+            </line>
+            <line>
+              <![CDATA[<br>Selected option 1]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Update Button]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Book Button]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Complete Booking Button]]>
+            </line>
+            <line>
+              <![CDATA[<br>Found elements for Errors]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Customer name]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Customer phone number]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Card holder name]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Card number]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Security Code]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value in Email]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on element Complete Booking]]>
+            </line>
+            <line>
+              <![CDATA[<br>Found elements for Errors]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- trivagoin.test -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- testBookingUntilCancelHotelRoom -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="tearDown" is-config="true" duration-ms="3640" started-at="2018-03-18T21:29:26Z" finished-at="2018-03-18T21:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- trivagoin.TrivagoTests -->
+    </test> <!-- Trivagoin Test -->
+  </suite> <!-- SuiteName -->
 </testng-results>

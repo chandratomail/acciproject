@@ -224,7 +224,7 @@ public class TrivagoTests {
 		map.put("checkoutDateForward", "5");
 		map.put("rooms", "1");
 		map.put("adult", "1");
-		map.put("children", "1");
+		map.put("children", "0");
 		
 		Object[][] object = new Object[1][1];
 		object[0][0] = map;
