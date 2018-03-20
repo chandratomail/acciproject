@@ -111,6 +111,8 @@ public class TrivagoTests {
 		Reporter.log("<br>*** Printing Resort Names started ***");
 		for(WebElement element : resortNames) {
 			System.out.println(element.getText());
+			Reporter.log("<br>"+element.getText());
+			
 		}
 		Reporter.log("<br>*** Printing Resort Names is done ***");
 		for(int i=0;i<400;i++) {

@@ -38,6 +38,81 @@
       <![CDATA[<br>*** Printing Resort Names started ***]]>
     </line>
     <line>
+      <![CDATA[<br>Taj Exotica Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>The Leela Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Seashell Beach Suites]]>
+    </line>
+    <line>
+      <![CDATA[<br>Leela Cottages]]>
+    </line>
+    <line>
+      <![CDATA[<br>The Lalit Golf & Spa Resort Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Treebo Maison Ocean Beach Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>MamaGoa Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Holiday Inn Resort Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Alila Diwa Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Joecons Beach Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Marbela Beach Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>The Fern Gardenia Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Country Inn & Suites By Carlson]]>
+    </line>
+    <line>
+      <![CDATA[<br>The Zuri White Sands Goa Resort & Casino]]>
+    </line>
+    <line>
+      <![CDATA[<br>Soul Vacation Resort & Spa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Lagoa Azul]]>
+    </line>
+    <line>
+      <![CDATA[<br>Baywalk Goa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Goa Marriott Resort & Spa]]>
+    </line>
+    <line>
+      <![CDATA[<br>Laguna Anjuna]]>
+    </line>
+    <line>
+      <![CDATA[<br>Zense Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Aguada Anchorage]]>
+    </line>
+    <line>
+      <![CDATA[<br>Chances Casino & Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Casablanca]]>
+    </line>
+    <line>
+      <![CDATA[<br>Angels Resort]]>
+    </line>
+    <line>
+      <![CDATA[<br>Prainha Resort & Cottage By The Sea]]>
+    </line>
+    <line>
       <![CDATA[<br>*** Printing Resort Names is done ***]]>
     </line>
     <line>
@@ -62,7 +137,7 @@
       <![CDATA[<br>Selected option 1]]>
     </line>
     <line>
-      <![CDATA[<br>Selected option 1]]>
+      <![CDATA[<br>Selected option 0]]>
     </line>
     <line>
       <![CDATA[<br>Clicked on element Update Button]]>
@@ -101,20 +176,20 @@
       <![CDATA[<br>Found elements for Errors]]>
     </line>
   </reporter-output>
-  <suite name="SuiteName" duration-ms="178101" started-at="2018-03-18T15:56:32Z" finished-at="2018-03-18T15:59:30Z">
+  <suite name="SuiteName" duration-ms="228720" started-at="2018-03-20T05:48:40Z" finished-at="2018-03-20T05:52:29Z">
     <groups>
     </groups>
-    <test name="Trivagoin Test" duration-ms="178101" started-at="2018-03-18T15:56:32Z" finished-at="2018-03-18T15:59:30Z">
+    <test name="Trivagoin Test" duration-ms="228720" started-at="2018-03-20T05:48:40Z" finished-at="2018-03-20T05:52:29Z">
       <class name="trivagoin.TrivagoTests">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="beforeClass" is-config="true" duration-ms="13565" started-at="2018-03-18T21:26:32Z" finished-at="2018-03-18T21:26:45Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="beforeClass" is-config="true" duration-ms="17130" started-at="2018-03-20T11:18:40Z" finished-at="2018-03-20T11:18:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testBookingUntilCancelHotelRoom(java.util.Map)[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="testBookingUntilCancelHotelRoom" duration-ms="160882" started-at="2018-03-18T21:26:45Z" data-provider="BookingMap" finished-at="2018-03-18T21:29:26Z">
+        <test-method status="PASS" signature="testBookingUntilCancelHotelRoom(java.util.Map)[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="testBookingUntilCancelHotelRoom" duration-ms="204703" started-at="2018-03-20T11:18:57Z" data-provider="BookingMap" finished-at="2018-03-20T11:22:22Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[{rooms=1, city=Goa, children=1, hotel=Resort, sort=Rating & Popularity, checkinDateForward=3, adult=1, checkoutDateForward=5}]]>
+                <![CDATA[{rooms=1, city=Goa, children=0, hotel=Resort, sort=Rating & Popularity, checkinDateForward=3, adult=1, checkoutDateForward=5}]]>
               </value>
             </param>
           </params>
@@ -156,6 +231,81 @@
               <![CDATA[<br>*** Printing Resort Names started ***]]>
             </line>
             <line>
+              <![CDATA[<br>Taj Exotica Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>The Leela Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Seashell Beach Suites]]>
+            </line>
+            <line>
+              <![CDATA[<br>Leela Cottages]]>
+            </line>
+            <line>
+              <![CDATA[<br>The Lalit Golf & Spa Resort Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Treebo Maison Ocean Beach Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>MamaGoa Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Holiday Inn Resort Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Alila Diwa Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Joecons Beach Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Marbela Beach Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>The Fern Gardenia Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Country Inn & Suites By Carlson]]>
+            </line>
+            <line>
+              <![CDATA[<br>The Zuri White Sands Goa Resort & Casino]]>
+            </line>
+            <line>
+              <![CDATA[<br>Soul Vacation Resort & Spa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Lagoa Azul]]>
+            </line>
+            <line>
+              <![CDATA[<br>Baywalk Goa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Goa Marriott Resort & Spa]]>
+            </line>
+            <line>
+              <![CDATA[<br>Laguna Anjuna]]>
+            </line>
+            <line>
+              <![CDATA[<br>Zense Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Aguada Anchorage]]>
+            </line>
+            <line>
+              <![CDATA[<br>Chances Casino & Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Casablanca]]>
+            </line>
+            <line>
+              <![CDATA[<br>Angels Resort]]>
+            </line>
+            <line>
+              <![CDATA[<br>Prainha Resort & Cottage By The Sea]]>
+            </line>
+            <line>
               <![CDATA[<br>*** Printing Resort Names is done ***]]>
             </line>
             <line>
@@ -180,7 +330,7 @@
               <![CDATA[<br>Selected option 1]]>
             </line>
             <line>
-              <![CDATA[<br>Selected option 1]]>
+              <![CDATA[<br>Selected option 0]]>
             </line>
             <line>
               <![CDATA[<br>Clicked on element Update Button]]>
@@ -220,7 +370,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- testBookingUntilCancelHotelRoom -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="tearDown" is-config="true" duration-ms="3640" started-at="2018-03-18T21:29:26Z" finished-at="2018-03-18T21:29:30Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:trivagoin.TrivagoTests@3e6fa38a]" name="tearDown" is-config="true" duration-ms="6781" started-at="2018-03-20T11:22:22Z" finished-at="2018-03-20T11:22:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
